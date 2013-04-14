@@ -3,7 +3,7 @@ awesome-clock
 
 Awesome Clock watchface for Pebble Watch
 
-## How To Use
+## How To Be Awesome
 
 1. Put this repo folder in pebble sdk folder (own folder of /awesome-clock)
 2. Run `../tools/create_pebble_project.py --symlink-only ../sdk/ awesome-clock`
@@ -13,3 +13,7 @@ Awesome Clock watchface for Pebble Watch
 6. Open the {{ computer IP }}:8000 on your phone.
 7. Navigate to the awesomeclock.pbw and open to install on watch! :D
 8. Be (even more) awesome!
+
+## Awesome Picture
+
+![Awesome Pic](https://raw.github.com/ryanseys/awesome-clock/master/awesome-watch.jpg)
